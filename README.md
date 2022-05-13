@@ -1,5 +1,6 @@
 # Lesson-1
 
-## Посилання на необов'язковий макет
+## Додаткова інформація
 
-- [Britlex](<https://www.figma.com/file/KEzbAHCqqotFz7EzUAMBbj/Britlex-Language-School-(Copy)?node-id=0%3A1>)
+- [Проект на Figma](<https://www.figma.com/file/KEzbAHCqqotFz7EzUAMBbj/Britlex-Language-School-(Copy)?node-id=0%3A1>)
+- [HTMLHint](https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint)
